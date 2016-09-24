@@ -1,0 +1,4 @@
+header {
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #44DB5E, #0076FF);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+}
